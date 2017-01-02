@@ -1,0 +1,25 @@
+#map{
+    width:600px;
+    height:500px;
+    margin:2% auto;
+}
+.mapMenu{
+    width: 360px;
+    height:60px;
+    margin:2% 50%;
+    left:-180px;
+    background-color: rgba(255,255,255, 0.8);
+    position: absolute;
+    border-radius: 10px;
+    z-index: 1000;
+    display:flex;
+}
+.mapMenu img{
+    height:50px;
+    margin: auto;
+}
+button{
+    background: none;
+    border: none;
+    margin: auto;
+}
